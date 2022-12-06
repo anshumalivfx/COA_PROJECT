@@ -1,0 +1,17 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/Users/anshumalikarna/Library/Arduino15/packages/arduino/hardware/avr/1.8.6/cores/arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/Users/anshumalikarna/Library/Arduino15/packages/arduino/hardware/avr/1.8.6/variants/standard"
+  },
+  {
+    "Sourcefile": "/private/var/folders/l2/15tz8qd146qddp7wnwrhmct40000gn/T/arduino-sketch-5BCBEFD307EB39DE0144BDB896A1DCB2/sketch/Arduino_CODE.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]

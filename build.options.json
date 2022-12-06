@@ -1,0 +1,12 @@
+{
+  "additionalFiles": "",
+  "builtInLibrariesFolders": "/Users/anshumalikarna/Library/Arduino15/libraries",
+  "builtInToolsFolders": "",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "",
+  "fqbn": "arduino:avr:uno",
+  "hardwareFolders": "/Users/anshumalikarna/Library/Arduino15/packages",
+  "otherLibrariesFolders": "/Users/anshumalikarna/Documents/Arduino/libraries",
+  "runtime.ide.version": "10607",
+  "sketchLocation": "/Users/anshumalikarna/Desktop/COA_PROJ/Arduino_CODE/Arduino_CODE.ino"
+}
